@@ -1,4 +1,4 @@
-// provides a function to parse markdown via GitHub's API
+// Package githubmarkdown provides a function to parse markdown via GitHub's API
 // http://developer.github.com/v3/markdown/
 package githubmarkdown
 
