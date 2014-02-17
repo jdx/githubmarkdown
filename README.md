@@ -1,7 +1,7 @@
 GitHub Markdown in Go
 =====================
 
-[![wercker status](https://app.wercker.com/status/fde87e53c1f60cb4f5b24f16fc091e6d/m/master "wercker status")](https://app.wercker.com/project/bykey/fde87e53c1f60cb4f5b24f16fc091e6d)
+[![wercker status](https://app.wercker.com/status/b19fd4a4c797d9b5b10a75f85f1d158e/m/master "wercker status")](https://app.wercker.com/project/bykey/b19fd4a4c797d9b5b10a75f85f1d158e)
 
 [![GoDoc](https://godoc.org/github.com/dickeyxxx/go-github-markdown?status.png)](https://godoc.org/github.com/dickeyxxx/go-github-markdown)
 
