@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-// Parses markdown with an HTTP request to GitHub's api.
+// Parse takes a markdown string and parses it using GitHub's API.
 // It retuns an html string.
 func Parse(md string) (string, error) {
 	reader := strings.NewReader(md)
