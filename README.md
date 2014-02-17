@@ -12,4 +12,5 @@ Usage
 
 ```go
 html, err := githubmarkdown.Parse("Hello world github/linguist#1 **cool**, and #1!")
+html // => "<p>Hello world github/linguist#1 <strong>cool</strong>, and #1!</p>"
 ```
