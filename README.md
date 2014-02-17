@@ -12,3 +12,7 @@ Usage
 ```go
 html, err := githubmarkdown.Parse("Hello world github/linguist#1 **cool**, and #1!")
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dickeyxxx/githubmarkdown/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
