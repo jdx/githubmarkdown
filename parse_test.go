@@ -1,7 +1,7 @@
-package github_markdown_test
+package githubmarkdown_test
 
 import (
-	. "github.com/dickeyxxx/go-github-markdown"
+	. "github.com/dickeyxxx/githubmarkdown"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

@@ -1,4 +1,4 @@
-package github_markdown_test
+package githubmarkdown_test
 
 import (
 	. "github.com/onsi/ginkgo"
